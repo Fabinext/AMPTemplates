@@ -1,9 +1,9 @@
 [
     {
-        "UpdateStageName": "updating",
+        "UpdateStageName": "Update Server",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "17906",
+        "UpdateSourceData": "1247090",
         "UpdateSourceArgs": "573090",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
